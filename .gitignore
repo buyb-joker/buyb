@@ -1,0 +1,31 @@
+/bin
+.project
+*/.project
+
+.settings
+*/.settings
+
+.classpath
+*/.classpath
+
+/target/
+*/target/
+
+*/.apt_generated/
+*/.factorypath
+
+*.log
+/.idea/
+
+.DS_Store
+*/.DS_Store
+
+# IDEA
+.idea
+*.iml
+
+.gitkeep
+
+# except for .gitkeep
+# Except this file !.gitkeep
+LOG_FILE_IS_UNDEFINED
