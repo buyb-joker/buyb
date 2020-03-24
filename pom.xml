@@ -11,6 +11,8 @@
   <modules>
     <module>gateway</module>
     <module>registerServer</module>
+    <module>producer</module>
+    <module>consumer</module>
   </modules>
 
   <name>buyb</name>
